@@ -1,0 +1,2720 @@
+{
+  "type": "FeatureCollection",
+  "name": "ms:adr_voie_lieu.adrequippiscinepct",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.6",
+        "nom": "Piscine municipale",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3838",
+        "idexterne": "690810018",
+        "siret": 21690081100185,
+        "timePosition": "2001-07-19",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69130",
+          "streetAddress": "5 Rue Jean Rigaud",
+          "addressCountry": "France",
+          "adressLocality": "Ecully"
+        },
+        "sameas": "https:\/\/www.ecully.fr\/mes-loisirs\/sports\/piscine-337.html",
+        "email": "piscine@ville-ecully.fr",
+        "telephone": "33478351022",
+        "tarif": "ADULTES (à partir de 15ans)\nEntrée individuelle: 3,20 € (écullois) - 4,30 € (non-écullois)\nCarte abonnement 10 entrées: 25 € (écullois) - 36 € (non-écullois)\nCarte abonnement étudiants: 20 € (écullois)\nCarte abonnement avec Carte Ecully famille: De -10 à -50% selon nbre d’enfants\n\nENFANTS\nEntrée individuelle: gratuit (moins de 5ans) - 2,10 € (enfants entre 5 et 14ans) - 4,30 € (non écullois)\nCarte abonnement 10 entrées: 17 € (écullois) - 36 € (non-écullois)\nCarte abonnement avec Carte Ecully famille: De -10 à -50% selon nbre d’enfants\n",
+        "commentaires": "La Piscine Municipale d’Ecully fait partie des piscines publiques lyonnaises. Située à proximité du stade de la Duchère et de la Gare de Vaise, elle est ouverte toute l’année. La piscine se compose d’un bassin de 25m, avec un toit ouvrant. Des cours de natation, d’aquagym et d’aquabike y sont organisés. Sa pelouse extérieure permet de profiter du soleil en saison estivale.",
+        "gid": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.785854,
+          45.783208999057159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.23",
+        "nom": "Piscine Ulysse coeur",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3693",
+        "idexterne": "692900020",
+        "timePosition": "2001-07-05",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "sameas": "http:\/\/www.ville-saint-priest.fr\/Piscine-Ulysse-Coeur.2127.0.html",
+        "gid": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.945031,
+          45.695686999057081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.1",
+        "nom": "Centre Nautique E.Gagnaire",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3736",
+        "idexterne": "692660001",
+        "timePosition": "2001-07-06",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69100",
+          "streetAddress": "59 avenue Marcel-Cerdan",
+          "addressCountry": "France",
+          "adressLocality": "Villeurbanne"
+        },
+        "sameas": "https:\/\/www.villeurbanne.fr\/annuaire#ficheannuaire-4281",
+        "email": "population@mairie-villeurbanne.fr",
+        "telephone": "04 72 37 72 02",
+        "tarif": "Entrée unitaire:5,70 € (tarif normal) - 3,40 € (tarif villeurbannais) Formule : 5 entrées:  25,80 € (tarif normal) - 14,90 € (villeurbannais) Formule 10 entrées ou 10H :  48,40 € (tarif normal) - 27,80 € (villeurbannais) Tarifs spécifiques:- Enfants moins de 3ans - Gratuit - Tarif solidaire villeurbannais : 1,50 € (l'entrée)",
+        "commentaires": "Le Centre Nautique Etienne Gagnaire est une piscine située dans la ville de Villeurbanne. Nommée en hommage à l’ancien maire de la ville, elle se compose de 3 bassins:- un bassin olympique de 50m qui contient 8 lignes d'eau et deux bassins de 25m. Diverses activités y sont organisées. Parmi elles, des cours de natation, d'aquajogging ou encore d’aquagym.",
+        "gid": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.909657,
+          45.766863999057136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.13",
+        "nom": "Centre Nautique André Sousi",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3359",
+        "idexterne": "690290001",
+        "timePosition": "2001-06-22",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69500",
+          "streetAddress": "Place Gaillard-Romanet",
+          "addressCountry": "France",
+          "adressLocality": "Bron"
+        },
+        "sameas": "https:\/\/www.ville-bron.fr\/culture-sport-mes-loisirs\/envie-de-sport\/centre-nautique-andre-sousi-bienvenue-au-grand-bleu",
+        "telephone": "33472810666",
+        "tarif": "Adultes\nEntrée individuelle: 4 € (brondillants) \/ 5,50 € (non brondillants)\nTarif 5 entrées: 16 €  (brondillants) \/ 22 € (non brondillants)\nTarif 10 entrées: 29 €  (brondillants) \/ 42 € (non brondillants)\n\nEnfants \nEntrée individuelle: 3 €  (brondillants) \/ 4 € (non brondillants)\nTarif 5 entrées: 12 €  (brondillants) \/ 16 € (non brondillants)\nTarif 10 entrées: 20 €  (brondillants) \/ 30 € (non brondillants)\n\nTarifs réduits \n\nAdultes plus de 60ans\nEntrée individuelle: 3 € (brondillants) \/ 4 € (non brondillants)\nTarif 10 entrées: 20 €  (brondillants) \/ 29 € (non brondillants)\n\nFamilles nombreuses,chômeurs, RSA \nEntrée individuelle: 3 € (brondillants) \/ 3 € (non brondillants)\nTarif 10 entrées: 20 €  (brondillants) \/ 20 € (non brondillants)\n\nHandicapés physiques à partir de 80%: Gratuit\nEnfants de moins de 4 ans: Gratuit",
+        "commentaires": "Le centre nautique André Sousi fait partie des plus grands équipements sportifs de la commune de Bron. Il accueille chaque année 260 000 visiteurs pour une capacité journalière de 1 200 personnes. C'est un complexe construit dans le respect des normes d'accessibilité, dont l'aménagement facilite l'accès aux personnes à mobilité réduite. Le centre est équipé de trois bassins d'eau dont un bassin olympique ( 50 x 21 x 1,80 mètres), un petit bassin ( Longueur 20 mètres et profondeur 0,70m à 1,80 m) et une pataugeoire. Sa toiture découverte sur 85 mètres permet de nager en toute saison de l'année.",
+        "gid": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.908399,
+          45.741212999057119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.19",
+        "nom": "Piscine",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3378",
+        "idexterne": "692760008_64189",
+        "timePosition": "2001-06-25",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69320",
+          "streetAddress": "Rue Jean Bouin",
+          "addressCountry": "France",
+          "adressLocality": "Feyzin"
+        },
+        "sameas": "https:\/\/www.ville-feyzin.fr\/je-veux\/faire-du-sport-et-sortir-a-feyzin\/piscine-d-été",
+        "email": " piscine@ville-feyzin.fr",
+        "telephone": "33472214600",
+        "tarif": "Pour les porteurs de la carte* : 1 €\nPour les porteurs de la carte Famille ou Entreprise** : 3 €\n\n* L'accès à la piscine se fait sous présentation de LA carte. Elle est disponible à l'accueil de la mairie de Feyzin.\n**LA carte famille et LA carte entreprise permettent aux proches en vacances, et aux personnes travaillant sur Feyzin, d’accéder à la piscine. Ces cartes sont à retirer à l’Hôtel de Ville de Feyzin.\nVoir les conditions d'achat de la carte sur le site de la commune.",
+        "commentaires": "La piscine Jean Bouin de Feyzin est située dans l'enceinte du stade au même nom. Elle ouvre ses portes durant les vacances d'été et propose des activités variées pour les petits et les grands amoureux du grand air. Elle ses compose d’un bassin de natation de 25 mètres, d’une pataugeoire et d’un bassin ludique. On aime les lectures au bord de l'eau avec l'équipe de la médiathèque tous les jeudis entre 15h30 et 17h !",
+        "gid": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.845132,
+          45.66566799905705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.20",
+        "nom": "Piscine Garibaldi",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3379",
+        "idexterne": "691230001",
+        "timePosition": "2001-06-25",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69003",
+          "streetAddress": "221 rue Garibaldi",
+          "addressCountry": "France",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon.fr\/lieu\/piscines-hiver\/piscine-garibaldi-hiver",
+        "telephone": "33478608966",
+        "tarif": "Entrée à l'unité: 3,40€ (Plein tarif) - 2,60€ (Tarif réduit*)\nCarte de 10 entrée : 25€\nGratuit pour les moins de 6ans.\n\n*Tarif réduit pour :\n- Les personnes de moins de 18 ans, les lycéens, les étudiants de moins de 26 ans.\n- Les personnes en situation de handicap et leur accompagnateur si nécessaire.\n- Les demandeurs d’emploi et titulaires du RSA (sur justificatif).\n\nPrévoir 1€ pour la caution du vestiaire.\n",
+        "commentaires": "La piscine de Garibaldi est une piscine d'hiver située dans le 3e arrondissement de Lyon. Elle est composée d'un bassin de 33,25 x 11,25 m divisé en 5 lignes d'eau. La profondeur du bassin varie entre 0,80 et 3,20m. La piscine propose des séances matinales les mardis entre 7h et 8h30: idéal pour démarrer une journée en ayant le corps réchauffé.",
+        "gid": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.853336,
+          45.755648999057129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.2",
+        "nom": "Piscine André Boulloche",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3737",
+        "idexterne": "692660003",
+        "timePosition": "2001-07-06",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69100",
+          "streetAddress": "96 rue Francis de Pressensé",
+          "addressCountry": "France",
+          "adressLocality": "Villeurbanne"
+        },
+        "sameas": "https:\/\/www.villeurbanne.fr\/annuaire#ficheannuaire-4280",
+        "email": "population@mairie-villeurbanne.fr",
+        "telephone": "04 72 37 72 02",
+        "tarif": "Entrée unitaire : 5,70 € (tarif normal) - 3,40 € (tarif vileurbannais) Formule 5 entrées : 25,80€ (tarif normal) - 14,90€ (villeurbannais) Formule 10 entrées ou 10H : 48,40€  (tarif normal) - 27,80€ (villeurbannais) Formule 20 entrées : 88,60€ (tarif normal) - 47,40€ (villeurbannais) Tarifs spécifiques: - Enfants de moins de 3 ans : gratuit - Tarif solidaire villeurbannais: 1,50€ (l'entrée)",
+        "commentaires": "La piscine André Boulloche fait partie des équipements sportifs de la commune de Villeurbanne. Fermée durant les vacances scolaires, les jours fériés et en période estivale, elle s'adresse principalement aux associations et groupes scolaires. Dans son bassin de 25m des activités telles que les cours de natation, jardin aquatique et de l'aquagym.",
+        "gid": 2,
+        "facebook": "https:\/\/www.facebook.com\/Piscine-Andr%C3%A9-Boulloche-174773732566215\/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.876262,
+          45.771617999057149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.16",
+        "nom": "Piscine Tronchet",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3625",
+        "idexterne": "691230199",
+        "timePosition": "2001-07-02",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69006",
+          "streetAddress": "125 rue Tronchet",
+          "addressCountry": "france",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon.fr\/lieu\/piscines-hiver\/piscine-tronchet-hiver",
+        "telephone": "04 78 89 01 31",
+        "gid": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.858341,
+          45.771413999057145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.3",
+        "nom": "Piscine des Gratte-Ciel",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3738",
+        "idexterne": "692660108",
+        "timePosition": "2001-07-06",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69100",
+          "streetAddress": "Place Lazare-Goujon",
+          "addressCountry": "France",
+          "adressLocality": "Villeurbanne"
+        },
+        "sameas": "https:\/\/www.villeurbanne.fr\/annuaire#ficheannuaire-4279",
+        "email": "population@mairie-villeurbanne.fr",
+        "telephone": "04 72 37 72 02",
+        "tarif": "Entrée unitaire : 5,70€ (tarif normal) - 3,40€ (tarif vileurbannais) Formule 5 entrées :  25,80€ (tarif normal) - 14,90€ (villeurbannais) Formule 10 entrées ou :  48,40€ (tarif normal) - 27,80€ (villeurbannais) Tarifs spécifiques: Enfants de moins de 3 ans : gratuit",
+        "commentaires": "La piscine de gratte-ciel datant de 1914 se trouve au sous-sol du théâtre national populaire de Villeurbanne. Elle se compose d’un bassin de natation de 25 mètres avec une profondeur vacillant entre 95cm et 2,10m.  C'est une piscine d'hiver, plutôt utilisée par les groupes scolaires et les associations. La piscine est fermée pendant les jours fériés et les vacances scolaires.",
+        "gid": 3,
+        "facebook": "https:\/\/www.facebook.com\/Piscine-Gratte-Ciel-179559295439069\/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.879653,
+          45.765551999057152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.4",
+        "nom": "Piscine Auguste Delaune",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3907",
+        "idexterne": "692590008_229161",
+        "timePosition": "2001-08-09",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69200",
+          "streetAddress": "1 avenue du 8 mai 1945",
+          "addressCountry": "France",
+          "adressLocality": "Vénissieux"
+        },
+        "sameas": "https:\/\/www.ville-venissieux.fr\/content\/view\/full\/55968",
+        "email": "contact@ville-venissieux.fr",
+        "telephone": "04 72 50 16 96",
+        "tarif": "Adultes (+ de 16 ans) : 3€ Écoliers, étudiants : 1.80€ - Enfant:Gratuit jusqu'à 4 ans - De 4 à 16 ans : 1.80€ - De 4 à 16 ans (famille nombreuse) : 1.20€ - Abonnement 10 entrées : Enfants 13€ \/ Adultes 23€ Carte Aquagym (30 séances de 45') : Résidents : 90€ Non résident : 125€ - Animation : 6 €",
+        "commentaires": "La piscine municipale Auguste Delaune est située à Vénissieux, dans le complexe sportif du même nom. Elle accueille le public en été comme en hiver grâce à ses deux bassins intérieur et extérieur de 25m chacun. La piscine dispose également d'une pataugeoire pour les tous petits. Des séances bébés nageurs y sont organisées, ainsi que des cours de natation, d'aquagym, d'aquaphobie ou encore de plongée. Vous y retrouverez également des animations en été comme: du football, beach-volley ou encore du trampoline.",
+        "gid": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.873467,
+          45.694308999057071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.5",
+        "nom": "Centre Nautique Intercommunal",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3908",
+        "idexterne": "692590025",
+        "timePosition": "2001-08-09",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69200",
+          "streetAddress": "16 Avenue du Dr Georges Lévy",
+          "addressCountry": "France",
+          "adressLocality": "Vénissieux"
+        },
+        "sameas": "https:\/\/www.resa-centre-nautique.fr\/horaire-general.html",
+        "email": "secretariat@centre-nautique.fr",
+        "telephone": "33437905454",
+        "tarif": "Entrées individuelles : Non résidents : 5,50€ (plein tarif) - 4,50€ (tarif réduit*) - Résidents : 4,20€ (plein tarif) - 3,30€ (tarif réduit*) Enfants : 3€ (entre 4 et 16 ans) Carte 10 entrées (valable 1 an) Non résidents: 45€ (plein tarif) - 40€ (tarif réduit*) Résidents:  35€ (plein tarif) - 30€ (tarif réduit*) Enfants:  22€ (entre 4 et 16ans) - Abonnements 6 mois\/12 mois Résidents: 120€ (plein tarif) - 100 € (tarif réduit*) \/ 200 € (plein tarif) - 180 € (tarif réduit*)Non-résidents: 150 € (plein tarif) - 130 € (tarif réduit*) \/ 250 € (plein tarif) - 220 € (tarif réduit*)*Pour bénéficier d'un tarif résident: présenter un justificatif et habiter la commune de Lyon, Saint-Fons ou Vénissieux.*Pour bénéficier d'un tarif réduit: présenter un justificatif et être étudiant, lycéen, chômeur, séniors de + de 60 ans, handicapé, titulaire d'une carte famille nombreuse.",
+        "commentaires": "Le centre nautique intercommunal Lyon - Saint-Fons - Vénissieux a été conçu pour offrir détente, convivialité et bien-être au public vivant ou de passage dans la métropole lyonnaise. \nLe centre est situé dans la ville de Vénisseux et dispose de quatre zones d'eau comprenant un basin olympique de 50m, un bassin d'apprentissage, des pataugeoires extérieure et intérieure et un bassin bien-être. \nDe nombreuses activités y sont proposées pour tous les âges.",
+        "gid": 5,
+        "facebook": "https:\/\/facebook.com\/Centre-Nautique-Intercommunal-Lyon-Saint-Fons-V%C3%A9nissieux-109419316415425\/?hc_ref=ARRP5uWJojFpJEfJEPGXiOI9bl4WtXCuist1EwK3ewgZEYviAl2nvf2djfSBqVMh8Nk&fref=nf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.857726,
+          45.7185879990571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.7",
+        "nom": "Piscine de Saint-Exupéry",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3767",
+        "idexterne": "691230009",
+        "timePosition": "2001-07-09",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69004",
+          "streetAddress": "11 rue Petrus Sambardier",
+          "addressCountry": "France",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon.fr\/lieu\/piscines-hiver\/piscine-saint-exupery-hiver",
+        "telephone": "33478298066",
+        "tarif": "Entrée à l'unité Plein tarif : 3,40 € \/ Tarif réduit*: 2,60 €Gratuit pour les enfants de moins de 6 ans.Carte de 10 entrées : 25 €(carte valable 2 ans à compter du dernier rechargement)Remplacement d'une carte à puceEn cas de perte\/vol\/détérioration :  2 €Prévoir 1 € pour la caution du vestiaire.*Tarifs réduits pour :- Les personnes de moins de 18 ans, les lycéens, les étudiants de moins de 26 ans.- Les personnes en situation de handicap et leur accompagnateur si nécessaire.- Les demandeurs d’emploi et titulaires du RSA (sur justificatif).",
+        "commentaires": "Chauffée à 27°C, la piscine d'hiver Saint-Exupéry de Lyon 4 est ouverte au public et majoritairement aux écoles et associations. Elle se compose d'un bassin de 25 x 12,5 m avec une profondeur allant de 1,20m à 3,50m.",
+        "gid": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.821826,
+          45.781414999057162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.8",
+        "nom": "Piscine municipale",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3858",
+        "idexterne": "691490009",
+        "timePosition": "2001-07-27",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69600",
+          "streetAddress": "44 Grande Rue ",
+          "addressCountry": "France",
+          "adressLocality": "Oullins"
+        },
+        "sameas": "http:\/\/www.oullins.fr\/sorties-activites\/sports-et-loisirs\/piscine-municipale-358.html",
+        "email": "piscine@ville-oullins.fr",
+        "telephone": "33472661240",
+        "tarif": "Entrée simple 0-4 ans: gratuit pour les résidents et non résidents. Entrée simple 5-12 ans:  2 €  (résidents) \/ 3 € (non résidents)Entrée simple tarif réduit*:  3 €  (résidents) \/ 6 € (non résidents) Entrée simple:  4 € (résidents) \/ 7 € (non résidents) 10 entrées 5-12 ans (valable 1 an): 15 € (résidents) \/ 23 € (non résidents) 10 entrées tarif réduit (valables 1 an*): 20 € (résidents) \/ 35 € (non résidents) 10 entrées (valables 1 an): 35 € (résidents) \/ 61 € (non résidents) 10 heures (valable 1 an): 15 € (résidents) \/ 26 € (non résidents) 20 heures (valable 1 an): 22 € (résidents) \/ 38 € (non résidents) Abonnement individuel saison estivale juin à août: 80 € (résidents) \/ 120 € (non résidents) * Tarifs réduits: Enfants de 13 à 17 ans, étudiants, apprentis, bénéficiaires des minima sociaux, demandeurs d'emploi, familles nombreuses.",
+        "commentaires": "La piscine municipale d’Oullins offre l’accès - de mi-septembre à début juin - à un bassin couvert de 25 mètres et - de mi-juin à fin août - à deux bassins de plein air et une pataugeoire chauffés. Pour y accéder, le bonnet de bain est désormais obligatoire. L’établissement propose aussi un sauna ouvert toute l’année.",
+        "gid": 8,
+        "facebook": "https:\/\/www.facebook.com\/Oullins\/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.809326,
+          45.718272999057106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.9",
+        "nom": "Espace Nautique",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S5029",
+        "idexterne": "690910019",
+        "timePosition": "2008-03-25",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69700",
+          "streetAddress": "9 Rue Honoré Petetin",
+          "addressCountry": "France",
+          "adressLocality": "Givors"
+        },
+        "sameas": "https:\/\/www.givors.fr\/sports-loisirs-associations\/espace-nautique\/",
+        "email": "https:\/\/grc26.localeo.fr\/public\/indexv2\/index\/city\/96?testCookie=TRUE",
+        "telephone": "33472491818",
+        "tarif": "Enfants\nMoins de 4ans: gratuit (résidents) - 1,70 € (non résidents)\nEnfants de 4 à 17ans: 3,10 € (résidents) - 4,70 € (non résidents)\nForfait 10 entrées: 18,10 € (résidents) - 35,20 € (non résidents) \nForfait 10H: 14,10 € (résidents) - 30,20 € (non résidents)\nForfait 20 entrées: 32,10 € (résidents) - 57,20 € (non résidents)\n\nAdultes (18 ans et plus)\nEntrée unitaire: 4,60 € (résidents) - 6,20 € (non résidents) \nForfait 10 entrées: 28,10 € (résidents) - 46,20 € (non résidents) \nForfait 10H: 22,10 € (résidents) - 41,20 € (non résidents)\nForfait 20 entrées: 49,10 € (résidents) - 80,20 € (non résidents)\n\nPublic spécifique\nChômeurs, handicapés, étudiants, séniors, \nFamille nombreuse:  3,10 € (résidents) - 4,20 € (non résidents)\nForfait 10 entrées: 18,10 € (résidents) - 23,20 € (non résidents)\nForfait 20 entrées: 31,10 € (résidents) - 33,20 € (non résidents)",
+        "commentaires": "Ouvert sur toute l’année, l’espace nautique de Givors se compose de deux bassins de 25m, d’une pataugeoire, d’un toboggan et d’un sauna. C’est une piscine couverte qui dispose également d’un espace extérieur pour profiter du soleil lors des beaux jours. Diverses activités y sont proposées. Parmi elles, des cours de natation ou encore d’aquagym.",
+        "gid": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.772116,
+          45.590490999056989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.10",
+        "nom": "Bassin de natation",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S6914",
+        "idexterne": "690890001_13295",
+        "timePosition": "2016-12-12",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69340",
+          "streetAddress": "1 chemin des Cytises",
+          "addressCountry": "France",
+          "adressLocality": "Francheville "
+        },
+        "sameas": "http:\/\/www.aquavert.fr\/piscines-equipements.php",
+        "email": "contact@aquavert.fr",
+        "telephone": "33472383460",
+        "tarif": "Entrée à l'unité: 4€ (Plein tarif) - 3€ (Tarif réduit)\nCarte de 10 entrées: 30€\nCarte de 20 entrée : 50€",
+        "commentaires": "La piscine du parc Aquavert est ouverte en été comme en hiver. Vous y trouverez un bassin de 25 mètres avec 6 couloirs qui a une profondeur d'1m90 à 2m30. Ainsi qu'un bassin d'apprentissage de 18 mètres par 12 avec une profondeur allant de 20 cm à 1m30, sans oublier son toboggan ! Venez profiter après votre activité sportive des larges plages aménagées avec des bancs et des transats.",
+        "gid": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.770786,
+          45.750099999057134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.11",
+        "nom": "Piscine municipale",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3514",
+        "idexterne": "691000005",
+        "timePosition": "2001-06-26",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69540",
+          "streetAddress": "33 chemin de Champvillard",
+          "addressCountry": "France",
+          "adressLocality": "Irigny"
+        },
+        "sameas": "http:\/\/www.irigny.fr\/Piscine",
+        "telephone": "33478464245",
+        "tarif": "Irignois de - 18 ans : 2,70€ (entrée unitaire) - 22€ (carte nominative de 10 entrées) - 40€ (carte nominative de 20 entrées) \nIrignois adultes : 3,80€ (entrée unitaire) - 32€ (carte nominative de 10 entrées) - 60€ (carte nominative de 20 entrées)\nNon irignois de - de 18ans : 2,70€ (entrée unitaire) - 25€ (carte nominative de 10 entrées) - 46€ (carte nominative de 20 entrées) \nNon irignois : 3,90€ (entrée unitaire) - 36€ (carte nominative de 10 entrées) - 68€ (carte nominative de 20 entrées)",
+        "commentaires": "La piscine municipale d’Irigny fait partie du centre de loisirs de Champvillard. Elle dispose d’un bassin caneton couvert de 25 x 10m, divisé en 4 lignes d’eau, pour une profondeur allant de 80cm à 2m. Côté activités, la piscine propose au jeune public des cours de natation. En période scolaire la piscine est fermée le mercredi et le samedi.",
+        "gid": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.811802,
+          45.670328999057062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.12",
+        "nom": "Centre Nautique de Chassieu",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3391",
+        "idexterne": "692710003",
+        "timePosition": "2001-06-25",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69680",
+          "streetAddress": "Rue des sports",
+          "addressCountry": "France",
+          "adressLocality": "Chassieu"
+        },
+        "sameas": "http:\/\/www.chassieu.fr\/le_centre_nautique_de_chassieu.html",
+        "email": "exprimez-vous@chassieu.fr",
+        "telephone": "33478902465",
+        "tarif": "Enfants (moins de 16ans): \n2€ (résidents de Chassieu) - 3,50€ (extérieurs) \n20€ (pass de 12 entrées résidents) - 35€ (pass de 12entrées extérieurs) \n\nAdultes: \n3€ (résidents et salariés de Chassieu) - 5€ (extérieurs) \n30€ (pass de 12 entrées résidents) - 50€ (pass de 12 entrées extérieurs)\n16€ (pass 10h résidents) - 30€ (pass 10h extérieurs)\n\nPublics spécifiques : \n1,50€ (étudiants, RSA, chômeurs résidents) - 3,50€ (étudiants, RSA, chômeurs extérieurs) \n1,50€ (Plus de 65ans résidents) - 3,50€ (plus de 65ans extérieurs)\nGratuit (enfants moins de 4ans, personnes en situation de handicap, MNS, pompiers)",
+        "commentaires": "Le centre nautique de Chassieu vous ouvre ses portes toute l'année. Il dispose:\n- d'un bassin de natation de 375m² \n- d'un bassin d'apprentissage de 105m²\n- d'une pataugeoire de 80m².",
+        "gid": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.967833,
+          45.742356999057115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.14",
+        "nom": "Piscine municipale",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3365",
+        "idexterne": "691420004",
+        "timePosition": "2001-06-22",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69350",
+          "streetAddress": "25 Rue de Verdun",
+          "addressCountry": "France",
+          "adressLocality": "La Mulatière"
+        },
+        "sameas": "https:\/\/www.lamulatiere.fr\/index.php\/Services-Municipaux?idpage=57&idmetacontenu=153",
+        "telephone": "33478511353",
+        "tarif": "TIicket adulte (+ 18 ans).......................................2,90 €\nCarte de 10 entrées adulte (+ 18 ans)..................19,60 €\nTicket enfant (4 à 18 ans) sur présentation d’un justificatif..........1,40 €\nCarte de 10 entrées enfants (4 à 18 ans)...............9,80 €\nCarte de 10 entrées étudiants.............................15,80 €\n\nPrévoir 1 € pour la caution du vestiaire.",
+        "commentaires": "La piscine municipale de la Mulatière est un équipement sportif de la métropole de Lyon. Construite en forme de tournesol, son exposition permet aux mulatins de longer son bassin de 25 mètres d'eau toute l'année. Vous pouvez également profiter d'un espace extérieur durant la saison estivale.",
+        "gid": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.807076,
+          45.726138999057099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.15",
+        "nom": "Piscine Le Kubdo",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3368",
+        "idexterne": "692020023",
+        "timePosition": "2001-06-22",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69110",
+          "streetAddress": "28 Avenue du 11 Novembre",
+          "addressCountry": "France",
+          "adressLocality": "Sainte-Foy-lès-Lyon"
+        },
+        "sameas": "http:\/\/www.saintefoyleslyon.fr\/Esprit-loisirs\/Sports-et-Jeunesse\/Piscine-Le-Kubdo",
+        "email": "piscine@ville-saintefoyleslyon.fr",
+        "telephone": "33472325992",
+        "tarif": "Entrée simple:  4,70 € (extérieurs) \/  4,70 € (fidésiens)\nTarif réduit*: 3,20 € (extérieurs) \/ 3,20 € (fidésiens)\n10 entrées simples: 41 € (extérieurs) \/ 35 € (fidésiens)\n10 entrées tarif réduit*: 27 € (extérieurs) \/ 22 € (fidésiens)\nCarte 50 entrées: 156 € (extérieurs) \/ 130 € (fidésiens)\nCarte 10 heures: 27 € (extérieurs) \/ 23 € (fidésiens)\nEnfants (-2 ans), pompiers et CRS: Gratuit\n\n* Tarif réduit: -16 ans, étudiants, chômeurs, bénéficiaires du RSA, groupes (+ de 10 personnes), personnel\ncommunal fidésien et personnes handicapées, sur présentation de justificatif.",
+        "commentaires": "Le Kubdo est une piscine municipale de la métropole lyonnaise, destinée à la détente et au bien-être des fidésiens et des personnes aux alentours. Construite dans le souci de préserver de l'environnement, la piscine offre une vue panoramique sur les Monts du Lyonnais. Ses deux basins intérieur et extérieur de 25 mètres chacun permettent de nager librement en toute période de l'année.",
+        "gid": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.795415,
+          45.737031999057109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.17",
+        "nom": "Piscine Jean Gelet",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3369",
+        "idexterne": "692560008",
+        "timePosition": "2001-06-22",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69120",
+          "streetAddress": "Avenue Marcel Thorez",
+          "addressCountry": "France",
+          "adressLocality": "Vaulx-en-Velin"
+        },
+        "sameas": "http:\/\/www.vaulx-en-velin.net\/jeunesse-sports\/piscine",
+        "email": "contactpiscine@mairie-vaulxenvelin.fr",
+        "telephone": "33478807301",
+        "tarif": "Adulte \nPrix unitaire: 2 € \nCarte de 10 entrées : 16+\n\nEnfant (moins de 16 ans) \nPrix unitaire: 1 €\nCarte de 10 entrées : 8 €\n",
+        "commentaires": "La piscine Jean Gelet fait partie des équipements sportifs de la commune de Vaulx-en-Velin. C'est un disposif de loisir entièrement découvrable pour la saison estivale avec un bassin de 25 x 10m.\nElle accueille les groupes scolaires comme le grand public et propose des activités (stage de natation \"J'apprends à nager\", stage de lutte contre l'aquaphobie, bébés nageurs le samedi matin et animations sportives...) tout au long de l'année.",
+        "gid": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.914612,
+          45.780567999057169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.18",
+        "nom": "Piscine Intercommunale",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3371",
+        "idexterne": "690720014",
+        "timePosition": "2001-06-22",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69260",
+          "streetAddress": "Avenue du casino",
+          "addressCountry": "France",
+          "adressLocality": "Charbonnière-les-Bains"
+        },
+        "sameas": "http:\/\/www.charbonnieres.com\/culture-sport-et-associations\/piscine-intercommunale",
+        "telephone": "33478198000",
+        "tarif": "Tarif adultes \n- Entrée individuelle: 9 € (non résidents) \/ 5 € (résidents) \n- Carte de 5 entrées:  43 € (non résidents) \/ 20,7 € (résidents)\n- Carte de 10 entrées:  75 € (non résidents) \/ 39,4 € (résidents)\n- Carte de 20 entrées:  130 € (non résidents) \/ 105 € (résidents)\n- Tarif \"invité\": 5 €\n- Abonnement saison:  250 € (non résidents) \/ 200 € (résidents)\n\nTarif enfants (6 -16 ans)\n- Entrée individuelle: 7 € (non résidents) \/ 3,2 € (résidents) \n- Carte de 5 entrées:  32,5 € (non résidents) \/ 14,5 € (résidents)\n- Carte de 10 entrées:  55 € (non résidents) \/ 25 € (résidents)\n- Carte de 20 entrées:  105 € (non résidents) \/ 41,5 € (résidents)\n- Tarif \"invité\": 3,2 €\n- Abonnement saison:  200 € (non résidents) \/ 70 € (résidents)\n\nTarif groupes \nAssociations ou organismes résidents: 2,2 € (adultes) \/ 1,7 € (enfants)\nAssociations ou organismes non résidents: 3,8 € (adultes) \/ 2,7 € (enfants)\n\nTarif réduit: 5€ (adultes) \/ 3,2 € (enfants)\n* Après 17h en semaine, demandeurs d'emploi et étudiants",
+        "commentaires": "La piscine intercommunale située à Charbonnières-les-bains est un équipement sportif partagé par trois communes du territoire métropolitain:  Marcy-l'Etoile, la Tour de Salvagny et Charbonnières-les-Bains. C'est un agréable complexe composé de deux zones de baignade de 25 mètres chacune.Grâce à ses plages aménagées, vous pourrez pratiquer du beach volley et du tennis de table. Programmez vos sorties en famille ou entre amis dès le mois de juin. La piscine est ouverte tout l'été y compris les jours fériés.",
+        "gid": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.734154,
+          45.789782999057174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.22",
+        "nom": "Centre Nautique Mendès-France",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3692",
+        "idexterne": "692900004_33021",
+        "timePosition": "2001-07-05",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69800",
+          "streetAddress": "Avenue Pierre Mendès-France",
+          "addressCountry": "France",
+          "adressLocality": "Saint-Priest"
+        },
+        "sameas": "https:\/\/www.ville-saint-priest.fr\/Centre-nautique-Mendes-France.2126.0.html",
+        "email": "piscines@mairie-saint-priest.fr",
+        "telephone": "33478215200",
+        "tarif": "Entrée à l'unité:\nTarif adulte +16ans: 4€ (San-Priots) - 5,20€ (extérieurs)\nTarif enfant 4 à 16ans: 2,70€ (San-Priots) - 3,50€ (extérieurs)\nTarif sénior - chômeur - handicapé: 2,70€ (San-Priots) - 3,50€ (extérieurs)\nTarif école de sports et passeports: 2€ (San-Priots)\nTarif salarié à Saint-Priest:  4€\n\nFormules:\nFormule 10H: 23€ (San-Priots) - 30€ (extérieurs)\nFormule 20H: 40€ (San-Priots) - 50€ (extérieurs)\nFormule 10 entrées Adultes: 33€ (San-Priots) - 43€ (extérieurs)\nFormule 10 entrées tarif réduit: 21€ (San-Priots) - 27,30€ (extérieurs)\n\nLes pass:\nPass sportif trimestriel: 90€ (San-Priots) - 110€ (extérieurs)\nPass sportif annuel: 150€ (San-Priots) - 200€ (extérieurs)",
+        "commentaires": "Le centre nautique Mendès-France fait partie des équipements sportifs de la ville de Saint-Priest. Il dispose d'un bassin de natation de 25m, d'un bassin d'apprentissage modulable pour les différentes activités et d'une pataugeoire de 230m2 d'eau. En plus des diverses activités proposées, la piscine propose des séances d'aquaphobie pour les personnes majeures sujettes à la peur de l'eau. Des stages découvertes de cette activité sont proposés tous les samedis matin après inscription auprès des hôtesses d'accueil du centre nautique.",
+        "gid": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.958591,
+          45.692916999057076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.25",
+        "nom": "Piscine Benjamin Delessert",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3782",
+        "idexterne": "691230141",
+        "timePosition": "2001-07-10",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69007",
+          "streetAddress": "40 rue de Gerland",
+          "addressCountry": "France",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon.fr\/lieu\/piscines-hiver\/piscine-benjamin-delessert-hiver",
+        "telephone": "33478726383",
+        "tarif": "Entrée à l'unité. Plein tarif : 3,40 € \/ Tarif réduit*: 2,60 €Gratuit pour les enfants de moins de 6 ans. Carte de 10 entrées : 25 € (carte valable 2 ans à compter du dernier rechargement). Remplacement d'une carte à puce. En cas de perte\/vol\/détérioration :  2 €. Prévoir 1€ pour la caution du vestiaire*Tarifs réduits pour :- Les personnes de moins de 18 ans, les lycéens, les étudiants de moins de 26 ans.- Les personnes en situation de handicap et leur accompagnateur si nécessaire.- Les demandeurs d’emploi et titulaires du RSA (sur justificatif).",
+        "commentaires": "La piscine Benjamin Delessert fait partie des piscines d'hiver de la métropole lyonnaise. Située dans le 7ème arrondissement, la piscine compte un bassin de 25 x 10m avec une profondeur allant de 1,25m à 3,30m. Destinée aux petits comme aux grands en proposant des cours de natation et de plongée. Les 4 lignes d'eau qui divisent la piscine permettent de distinguer les différentes activités. \nLa piscine est ouverte au public uniquement en hiver sur une plage horaire bien spécifique, à l'exception des jours fériés.",
+        "gid": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.840101,
+          45.740586999057115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.26",
+        "nom": "Piscine d'hiver de Vaise",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3942",
+        "idexterne": "691230198",
+        "timePosition": "2001-08-21",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69009",
+          "streetAddress": "50 avenue Sidoine Apollinaire",
+          "addressCountry": "France",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon.fr\/lieu\/piscines-ete\/piscine-de-vaise-ete-hiver",
+        "telephone": "33472531181",
+        "tarif": "Entrée à l'unité\nPlein tarif : 3,40 € \/ Tarif réduit*: 2,60 €\nGratuit pour les enfants de moins de 6 ans.\n\nCarte de 10 entrées : 25 €\n(carte valable 2 ans à compter du dernier rechargement)\n\nCarte été jeune 25 entrées: 50 €\n(carte nominative avec photo, réservée au moins de 18 ans. \nValable pendant la saison d'été et par prolongation à la fin des vacances scolaires de Toussaint.)\n\nRemplacement d'une carte à puce\nEn cas de perte\/vol\/détérioration :  2 €\n\n*Tarifs réduits pour :\n- Les personnes de moins de 18 ans, les lycéens, les étudiants de moins de 26 ans.\n- Les personnes en situation de handicap et leur accompagnateur si nécessaire.\n- Les demandeurs d’emploi et titulaires du RSA (sur justificatif).",
+        "commentaires": "En hiver comme en été, la ville de Vaise met à disposition de ses habitants et au public plus large un grand bassin aux dimensions olympiques. C'est l'un des rares établissements de la métropole lyonnaise à disposer d'un Club de Plongeon et de plongeoirs de compétition. Les installations comprennent des tremplins maxiflex 1m et 3m et des plateformes de 3m et 5m. \nLa piscine quant à elle fait 50mètres de long pour 8 couloirs de nage, pouvant être divisée pour distinguer les activités nautiques du site.",
+        "gid": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.796302,
+          45.770586999057151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.27",
+        "nom": "Piscine Caneton",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S7705",
+        "idexterne": "692900018",
+        "timePosition": "2017-08-29",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69800",
+          "streetAddress": "4 rue de l'égalité",
+          "addressCountry": "France",
+          "adressLocality": "Saint-Priest"
+        },
+        "sameas": "https:\/\/www.guide-piscine.fr\/rhone\/piscine-caneton-a-saint-priest-2068_P",
+        "commentaires": "La piscine Caneton est réservée aux associations, aux clubs et aux écoles, elle n'est pas accessible au public. Elle est composée d'un bassin de 20m x 10m et propose des activités comme des cours de natation, des cours de plongée et de natation synchronisée. Pour connaître les horaires il faut contacter directement les associations sportives de la ville.",
+        "gid": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.944571,
+          45.695513999057084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.28",
+        "nom": "Centre Aquatique Camille Muffat",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S4747",
+        "idexterne": "692750010",
+        "timePosition": "2006-03-20",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69150",
+          "streetAddress": "110 rue Emile Zola",
+          "addressCountry": "France",
+          "adressLocality": "Décines-Charpieu"
+        },
+        "sameas": "http:\/\/www.decines.fr\/183-l-equipement.htm",
+        "telephone": "33472051212",
+        "tarif": "Carte magnétique (majoration de 50% en cas de perte, 3 €):  2.00 € (décinois) \/ 2.00 € (extérieurs)\nAdultes (entrée valable uniquement le jour même):  4.10 € (décinois) \/ 5,40 € (extérieurs)\nEnfants (moins de 4 ans): gratuit\nTarif réduit (entrée valable uniquement le jour même): 2,70 € (décinois) \/ 4,20 € (extérieurs)\nCarte 30 entrées: 85,70 € (décinois) \/ 96,60 € (extérieurs)\nCarte 10 entrées adultes: 35,40 € (décinois) \/ 41,20 € (extérieurs)\nCarte 10 entrées tarif réduit: 23,60 € (décinois) \/ 35,40 € (extérieurs)\nCarte 10 heures adultes:   23,60 € (décinois) \/ 35,40 € (extérieurs)\nCarte 10 heures tarif réduit: 17,60 € (décinois) \/ 23,60 € (extérieurs)\n\n* Tarif réduit : Enfants de 4 à 18 ans, lycéens, étudiants, seniors de plus de 65 ans, demandeurs d'emploi,\n personnes en situation de handicap (gratuit pour l'accompagnateur si la personne n' est pas autonome)",
+        "commentaires": "En 2015, le centre nautique de Décines devient le centre aquatique Carine Muffat, en hommage à la célèbre nageuse française du même nom. Avec son toit ouvrant, le centre permet de profiter de la piscine toute l'année. D'une superficie de 900 m2 de plan d'eau, le centre nautique comporte :* un bassin sportif de 25m x 20m, avec 8 lignes de nage d'une profondeur allant de 1,80m à 2,00m* un bassin d'apprentissage de 20m x 10m, d'une profondeur de 0.80m à 1,50m* un bassin ludique de 135m2, d'une profondeur moyenne de 0.70m* une pataugeoire d'une profondeur moyenne de 0.20m* un toboggan de 50m de long partant de l'intérieur du centre nautique, faisant une incursion à l'extérieur et revenant à l'intérieur, pour plonger dans sa propre fosse de réception.",
+        "gid": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.952998,
+          45.763132999057142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.29",
+        "nom": "Centre Aquatique Les Vagues",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S5233",
+        "idexterne": "692820050",
+        "timePosition": "2010-08-12",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69330",
+          "streetAddress": "10D Rue Jean Jaurès",
+          "addressCountry": "France",
+          "adressLocality": "Meyzieu "
+        },
+        "sameas": "www.les-vagues.com",
+        "email": "lesvagues.act@ucpasl.com",
+        "telephone": "33472026587",
+        "tarif": "Baignade adultes (dès 16ans)\nTarif unitaire: 4,40 € (résidents) - 5,40 € (non résidents)\nCarte 10H + 1H offerte: 21,50 € (résidents) - 29 € (non résidents)\nPass mensuel: 25 € (résidents) - 30 € (non résidents)\n\nBaignade enfants\nTarif unitaire (entre 3ans et 15ans): 2,40 € (résidents) - 3,40 € (non résidents)\nPass mensuel (entre 3ans et 15ans): 20 € (résidents) - 25 € (non résidents)",
+        "commentaires": "Le centre aquatique Les Vagues est un équipement appartenant à la ville de Meyzieu, animé et géré par l’UCPA (Union nationale des Centres sportifs de Plein Air) depuis juin 2009.\nImaginé pour répondre aux attentes des Majolans, mais également d’un public plus large, en termes de sport, de loisirs et de bien-être. Le centre dispose de deux zones d'eau: \n- L'espace aquatique, composé d'un bassin sportif  de 25m et d'un bassin ludique;\n- L'espace plongée, composé de deux fosses de 6 mètres et 20 mètres de profondeur chauffée à 28°C.",
+        "gid": 29,
+        "facebook": "https:\/\/www.facebook.com\/Centre.Aquatique.Les.Vagues"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.013361,
+          45.769098999057142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.30",
+        "nom": "Lyon Plage",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S7001",
+        "idexterne": "691230124",
+        "timePosition": "2016-12-16",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69004",
+          "streetAddress": "84 Quai Joseph Gillet",
+          "addressCountry": "france",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon-plage.com\/fr\/",
+        "email": "spa@lyon-plage.com",
+        "telephone": "04 72 10 44 34",
+        "tarif": "Spécial été : Adulte : 999 € - Abonnement Annuel : Adulte : 1 800 € En semaine : 1 350 € Couple : 3 250 € En semaine : 2 350 € Enfant (6-11 ans) : 600 € Enfant (12-16 ans) : 700 € - Abonnement 6 mois : Adulte : 1 500 € Couple : 2 450 € - Abonnement 3 mois : Adulte : 800 € Couple : 1 300 € - Abonnement mensuel : Adulte : 375 €",
+        "gid": 30,
+        "facebook": "https:\/\/www.facebook.com\/SpaLyonPlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.820333,
+          45.788122999057151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.31",
+        "nom": "Piscine Charial",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S7220",
+        "idexterne": "691230369_268283",
+        "timePosition": "2017-01-19",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69003",
+          "streetAddress": "102 rue Antoine Charial",
+          "addressCountry": "France",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon.fr\/lieu\/piscines-hiver\/piscine-charial-hiver",
+        "telephone": "33478542197",
+        "tarif": "Entrée à l'unité: 3,40€ (Plein tarif) - 2,60€ (Tarif réduit*)\nCarte de 10 entrée : 25€\nGratuit pour les moins de 6ans.\n\n*Tarif réduit pour :\n- Les personnes de moins de 18 ans, les lycéens, les étudiants de moins de 26 ans.\n- Les personnes en situation de handicap et leur accompagnateur si nécessaire.\n- Les demandeurs d’emploi et titulaires du RSA (sur justificatif).\n\nPrévoir 1€ pour la caution du vestiaire.\n",
+        "commentaires": "À proximité de la Gare de Lyon - Part-Dieu, la piscine Charial est une uniquement ouverte en saison hivernale. Plutôt utilisée par les écoles et les clubs, elle ouvre au public le mercredi, vendredi, samedi et dimanche. La Piscine Charial se compose de deux bassins : un bassin d’apprentissage de 25 x 12,5m pour une profondeur allant de 1,20m à 3m et un bassin ludique de 12,5 x 6m pour une profondeur allant de 0,90 à 1,20m.",
+        "gid": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.870992,
+          45.757416999057135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.32",
+        "nom": "Bassin de natation",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S6728",
+        "idexterne": "690290003_30247",
+        "timePosition": "2016-11-23",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69100",
+          "streetAddress": "7 rue des sports",
+          "addressCountry": "france",
+          "adressLocality": "villeurbanne"
+        },
+        "sameas": "https:\/\/www.univ-lyon1.fr\/campus\/plan-des-campus\/piscine-lyontech-la-doua-775988.kjsp?RH=M2R-0",
+        "commentaires": "La piscine est exclusivement réservée aux cours universitaires : il n’y a pas d’ouverture au public.",
+        "gid": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.926642,
+          45.729815999057109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.33",
+        "nom": "ENTPE Piscine",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S7436",
+        "idexterne": "692560001_62491",
+        "timePosition": "2017-07-17",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69120",
+          "streetAddress": "3 Rue Maurice Audin",
+          "addressCountry": "france",
+          "adressLocality": "vaulx-en-velin"
+        },
+        "sameas": "https:\/\/www.entpe.fr\/",
+        "telephone": "04 72 04 70 70",
+        "commentaires": "école d'ingénieurs",
+        "gid": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.92479,
+          45.778335999057148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.34",
+        "nom": "Bassin H.Cochet",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S6805",
+        "idexterne": "690340006_205218",
+        "timePosition": "2016-11-30",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69300",
+          "streetAddress": "9 Rue François Peissel",
+          "addressCountry": "france",
+          "adressLocality": "Caluire-et-Cuire"
+        },
+        "gid": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.836588,
+          45.793252999057174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.36",
+        "nom": "Bassin De Natation",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S7552",
+        "idexterne": "692660106_264512",
+        "timePosition": "2017-08-03",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69500",
+          "streetAddress": "331 avenue général de gaulle",
+          "addressCountry": "france",
+          "adressLocality": "Bron"
+        },
+        "sameas": "https:\/\/www.esa.sante.defense.gouv.fr\/creation-des-emslb\/sport",
+        "gid": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.877719,
+          45.783813999057152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.37",
+        "nom": "Piscine Isabelle Jouffroy",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S5601",
+        "idexterne": "690340002",
+        "timePosition": "2012-08-24",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69300",
+          "streetAddress": "310 avenue Elie Vignal ",
+          "addressCountry": "France",
+          "adressLocality": "Caluire-et-Cuire"
+        },
+        "sameas": "http:\/\/www.ville-caluire.fr\/content\/piscine-municipale-isabelle-jouffroy",
+        "telephone": "33437260020",
+        "commentaires": "La piscine Isabelle Jouffroy de la ville de Caluire-et-Cuire mise sur la sécurité et la qualité de ses équipements. Elle est entièrement accessible aux personnes en situation de handicap et dispose d'un système d'aide à la détection des noyades. En hiver, les bassins sont chauffés à des températures allant de 28°C à 30°C. En été, son toit et ses grandes baies vitrées s'ouvrent et laissent entrer le soleil sur trois espaces d'eau:- un bassin sportif (25 x 12,5m) pour une profondeur allant de 1,35m à 1,90m;- un bassin ludique (25 x 12m) disposant de 2 couloirs de nage pour une profondeur allant de 0,85m à 1,35m;- une pataugeoire (12,5 x 4m) de 20cm de profondeur.",
+        "gid": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.850906,
+          45.792456999057173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.39",
+        "nom": "Piscine Origami",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S7672",
+        "idexterne": "692860007_42698",
+        "timePosition": "2017-08-17",
+        "openinghoursspecification": [
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-03-16",
+            "validThrough": "2020-05-10"
+          }
+        ],
+        "address": {
+          "postalCode": "69140",
+          "streetAddress": "196 avenue de l'Hippodrome ",
+          "addressCountry": "France",
+          "adressLocality": "Rilleux-la-Pape"
+        },
+        "sameas": "https:\/\/piscine-origami.fr",
+        "telephone": "33478887033",
+        "tarif": "Entrée unique:\nEnfants de - de 3 ans : gratuit pour les Rilliards et les extérieurs\nTarifs réduits (3 ans à - de 18 ans) : 2 € pour les Rilliards \/ 3.30 € pour les extérieurs\nAdultes (18 ans et +) : 3.50 € pour les Rilliards \/ 5.50 € pour les extérieurs\nAdultes + de 60 ans : 2 € pour les Rilliards \/ 3.30 € pour les extérieurs\nAdultes + de 72 ans : gratuit pour les Rilliards \/ 3.30 € pour les extérieurs\nCasier individuel : tarif unique de 0.20 €\n\nAbonnement 10 entrées:\nTarif réduit (3ans à - de 18 ans) : 13 € pour les Rilliards \/ 25 € pour les extérieurs\nAdultes (18 ans et +) : 27 € pour les Rilliards \/ 48 € pour les extérieurs",
+        "commentaires": "Le centre aquatique du Loup-pendu, situé à Rilleux-la-Pape, fait partie des piscines de la région lyonnaise. Il est ouvert toute l’année et dispose d’un bassin sportif, d’un bassin moyen et d’un petit bassin chauffés à 26° l'été et jusqu'à 28° en hiver. Tous les âges y trouvent leur compte avec les nombreuses activités autour des plaisirs de l’eau qui y sont organisées.Le centre est aussi composé d'une salle de musculation, d’un mini-golf et de courts de tennis pour l'entretien physique.  ",
+        "gid": 39,
+        "facebook": "https:\/\/fr-fr.facebook.com\/pages\/biz\/community-rillieux-69140\/Rillieux-la-Pape-174527919325407\/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88627,
+          45.816843999057191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.38",
+        "nom": "Centre Nautique Tony Bertrand",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3781",
+        "idexterne": "691230006",
+        "timePosition": "2001-07-10",
+        "openinghoursspecification": [
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-06-30",
+            "validThrough": "2020-07-01"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-06-30",
+            "validThrough": "2020-07-01"
+          }
+        ],
+        "address": {
+          "postalCode": "69007",
+          "streetAddress": "8 Quai Claude Bernard",
+          "addressCountry": "France",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon.fr\/lieu\/piscines-ete\/centre-nautique-tony-bertrand-ex-piscine-du-rhone",
+        "telephone": "33478720450",
+        "tarif": "Entrée à l'unité\nPlein tarif : 3,40 € \/ Tarif réduit*: 2,60 €\nGratuit pour les enfants de moins de 6 ans.\n\n- Carte de 10 entrées : 25 €\n(carte valable 2 ans à compter du dernier rechargement)\n- Carte de 25 heures: 50 €\n- Carte de 50 heures: 85 €\n\nRemplacement d'une carte à puce\nEn cas de perte\/vol\/détérioration :  2 €\n\n*Tarifs réduits pour :\n- Les personnes de moins de 18 ans, les lycéens, les étudiants de moins de 26 ans.\n- Les personnes en situation de handicap et leur accompagnateur si nécessaire.\n- Les demandeurs d’emploi et titulaires du RSA (sur justificatif).",
+        "commentaires": "Désormais baptisée Centre nautique Tony Bertrand, l'ex piscine du Rhône a été conçue par l'architecte lyonnais Alexandre Audouze-Tabourin et réalisée à l’occasion de la candidature de Lyon aux Jeux olympiques d'été de 1968. Son équipement est constitué:\n*d'un bassin olympique  de 50 x 21 mètres (chauffé à 27°C en hiver)\n*d'un bassin nord de nage et d'activités ludiques de 68 x 24 mètres (ouvert uniquement pendant la saison d'été)\n*d'une pataugeoire et d'un splashpad qui proposent des jeux aquatiques à destination des enfants. \n",
+        "gid": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.838095,
+          45.753980999057134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.21",
+        "nom": "Piscine d'été de la Duchère",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3930",
+        "idexterne": "691230197",
+        "timePosition": "2001-08-17",
+        "openinghoursspecification": [
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-06-30",
+            "validThrough": "2020-07-01"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-06-30",
+            "validThrough": "2020-07-01"
+          }
+        ],
+        "address": {
+          "postalCode": "69009",
+          "streetAddress": "4 avenue Andreï Sakharov",
+          "addressCountry": "France",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon.fr\/lieu\/piscines-ete\/piscine-de-la-duchere-ete",
+        "telephone": "33478353548",
+        "tarif": "Entrée à l'unité\nPlein tarif : 3,40 € \/ Tarif réduit*: 2,60 €\nGratuit pour les enfants de moins de 6 ans.\n\nCarte de 10 entrées : 25 €\n(carte valable 2 ans à compter du dernier rechargement)\n\nCarte été jeune 25 entrées: 50 €\n(carte nominative avec photo, réservée au moins de 18 ans. \nValable pendant la saison d'été et par prolongation à la fin des vacances scolaires de Toussaint.)\n\nRemplacement d'une carte à puce\nEn cas de perte\/vol\/détérioration :  2 €\nPrévoir 1 € pour la caution du vestiaire.\n\n*Tarifs réduits pour :\n- Les personnes de moins de 18 ans, les lycéens, les étudiants de moins de 26 ans.\n- Les personnes en situation de handicap et leur accompagnateur si nécessaire.\n- Les demandeurs d’emploi et titulaires du RSA (sur justificatif).",
+        "commentaires": "Située dans le 9e arrondissement de Lyon, la piscine de la Duchère est ouverte durant toute la période estivale. Pour profiter des plaisirs de l'eau, la piscine organise des animations telles que l'aquagym, des lignes de nage ou encore le jardin aquatique. Son équipement de trois zones d'eau:\n1 bassin éducatif (15,75m x 15,05m)\n1 bassin de 50m (50m x 21m)\n1 pataugeoire(25m x 8m)\nPlongeoirs 3m et 5m. \n\nLa piscine offre un accès aux personnes en situation de handicap.",
+        "gid": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.798913,
+          45.788311999057171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.35",
+        "nom": "Piscine d'été Jean Mermoz",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3812",
+        "idexterne": "691230200",
+        "timePosition": "2001-07-18",
+        "openinghoursspecification": [
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-06-30",
+            "validThrough": "2020-07-01"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-06-30",
+            "validThrough": "2020-07-01"
+          }
+        ],
+        "address": {
+          "postalCode": "69008",
+          "streetAddress": "12 Place André Latarjet",
+          "addressCountry": "France",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon.fr\/lieu\/piscines-ete\/piscine-jean-mermoz-été",
+        "telephone": "33478743309",
+        "tarif": "Entrée à l'unité\nPlein tarif : 3,40 € \/ Tarif réduit*: 2,60 €\nGratuit pour les enfants de moins de 6 ans.\n\n- Carte de 10 entrées : 25 €\n(carte valable 2 ans à compter du dernier rechargement)\n- Carte jeune été 25 entrées: 50 €\n\nEn cas de perte\/vol\/détérioration de la carte à puce:  2 €\nCaution du vestiaire: 1 €\n\n*Tarifs réduits pour :\n- Les personnes de moins de 18 ans, les lycéens, les étudiants de moins de 26 ans.\n- Les personnes en situation de handicap et leur accompagnateur si nécessaire.\n- Les demandeurs d’emploi et titulaires du RSA (sur justificatif).",
+        "commentaires": "La piscine Jean Mermoz est une piscine d'été située dans le 8e arrondissement de Lyon. Construite dans les années 68-69 par Philippe Tournebize, elle a connu plusieurs transformations qui continuent de séduire les familles lyonnaises. Avec sa belle structure métallique qui sert de toboggan, elle dispose en plus d'un bassin de natation de 25 mètres, d'un bassin ludique et d'une pataugeoire.",
+        "gid": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.886302,
+          45.730399999057113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "adr_voie_lieu.adrequippiscinepct.24",
+        "nom": "Piscine de Gerland 1",
+        "theme": "SPORT",
+        "soustheme": "Piscine",
+        "identifiant": "S3780",
+        "idexterne": "691230202",
+        "timePosition": "2001-07-10",
+        "openinghoursspecification": [
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Monday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Thursday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Friday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Saturday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "opens": "10:00",
+            "closes": "19:30",
+            "dayOfWeek": "http:\/\/schema.org\/Sunday",
+            "validFrom": "2020-07-02",
+            "validThrough": "2020-08-31"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Tuesday",
+            "validFrom": "2020-06-30",
+            "validThrough": "2020-07-01"
+          },
+          {
+            "dayOfWeek": "http:\/\/schema.org\/Wednesday",
+            "validFrom": "2020-06-30",
+            "validThrough": "2020-07-01"
+          }
+        ],
+        "address": {
+          "postalCode": "69007",
+          "streetAddress": "353 avenue Jean Jaurès",
+          "addressCountry": "France",
+          "adressLocality": "Lyon"
+        },
+        "sameas": "https:\/\/www.lyon.fr\/lieu\/piscines-ete\/piscine-de-gerland-ete",
+        "telephone": "33472765640",
+        "tarif": "Entrée à l'unité : Plein tarif : 3,40 € \/ Tarif réduit*: 2,60 € Gratuit pour les enfants de moins de 6 ans.Carte de 10 entrées : 25 €(carte valable 2 ans à compter du dernier rechargement). Carte été jeune 25 entrées: 50 €(carte nominative avec photo, réservée au moins de 18 ans. Valable pendant la saison d'été et par prolongation à la fin des vacances scolaires de Toussaint.)Remplacement d'une carte à puceEn cas de perte\/vol\/détérioration :  2 €*Tarifs réduits pour :- Les personnes de moins de 18 ans, les lycéens, les étudiants de moins de 26 ans.- Les personnes en situation de handicap et leur accompagnateur si nécessaire.- Les demandeurs d’emploi et titulaires du RSA (sur justificatif).",
+        "commentaires": "La piscine de Gerland fait partie des équipements sportifs de la métropole lyonnaise. Elle dispose d'une piscine en plein air aux dimensions olympiques (50 x 18 mètres) et d\"une pataugeoire. Le plongeoir de 10m étant actuellement fermé, les amateurs de plongeons pourront quand même s'entraîner sur les plongeoirs de 3m et 5m restants. La piscine est ouverte tout l'été y compris les jours fériés.",
+        "gid": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8307,
+          45.724944999057108
+        ]
+      }
+    }
+  ]
+}
