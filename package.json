@@ -1,0 +1,27 @@
+{
+  "name": "piscines-grand-lyon",
+  "version": "1.0.0",
+  "description": "Mapping des piscines du grand lyon avec données data.gouv.fr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romain-koenig/piscines-grand-lyon.git"
+  },
+  "keywords": [
+    "piscine",
+    "piscines",
+    "lyon",
+    "métropole",
+    "horaires",
+    "tarifs"
+  ],
+  "author": "Romain KOENIG - Jonathan GLADINE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romain-koenig/piscines-grand-lyon/issues"
+  },
+  "homepage": "https://github.com/romain-koenig/piscines-grand-lyon#readme"
+}
