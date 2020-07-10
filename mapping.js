@@ -46,11 +46,11 @@ map.on('load', function () {
 
       ${e.features[0].properties.commentaires === undefined ?
         "" :
-        '<p>' + e.features[0].properties.commentaires + '</p>'}
+        '<p>' + e.features[0].properties.commentaires + '</p>'}`
 
-        ${e.features[0].properties.tarif === undefined ?
-        "" :
-        '<p>' + e.features[0].properties.tarif + '</p>'}`
+        // ${e.features[0].properties.tarif === undefined ?
+        // "" :
+        // '<p>' + e.features[0].properties.tarif + '</p>'}`
 
 
     const calendrier = JSON.parse(e.features[0].properties.openinghoursspecification);
