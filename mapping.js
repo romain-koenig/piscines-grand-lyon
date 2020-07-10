@@ -1,7 +1,7 @@
 console.log("Script starts here");
 
 mapboxgl.accessToken =
-  "pk.eyJ1Ijoicm9tYWlua29lbmlnIiwiYSI6ImNrY2Y2MHBmOTBka3YycW84aDYweG0waGgifQ.xBOMukWDNl9LqbuJaHjV5A";
+"pk.eyJ1Ijoicm9tYWlua29lbmlnIiwiYSI6ImNrY2cxazR3dzBubDYycm0ybHQ4NWwwemsifQ.zv3lDYFBK4_zZmZhayc4Vg";
 
   var bounds = [
   [4.6, 45.2], // Southwest coordinates
