@@ -55,9 +55,10 @@ h2 > .smallTitle {
 
 #map {
   width: 80%;
-  border: 10px solid #dedede;
-  min-height: 50vh;
-  margin: 10px;
+  border: 8px solid #dedede;
+  min-height: 60vh;
+  margin: 0px;
+  padding-bottom: 0px;
 }
 
 .content {
