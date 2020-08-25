@@ -1,51 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Les Piscines - Grand Lyon </title>
+  <title>Les Piscines - Grand Lyon</title>
 
   <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js"></script>
   <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css" rel="stylesheet" />
 
-  <link rel="stylesheet" href="./map.css">
+  <link rel="stylesheet" href="./test.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
 
 </head>
 
 <body>
-  <header>
-    <img src="./img/logo_piscine_couleur_typo_1200_264.png" alt="Logo les Piscines Grand Lyon">
-    <!-- <img src="./img/logo_piscine_couleur.png" alt="Logo">
-    <h1><span class="bold">les Piscines </span><span class="black">Grand </span><span class="bb">Lyon</span></h1> -->
-  
-    <!-- <h1>Normal</h1>
-    <h1><span class="bold">Bold</span></h1>
-    <h1><span class="black">Black</span></h1>
-    <h1><span class="bb">Bold and black</span></h1> -->
-  
-  </header>
-  <div class="content">
+
+  <div id="container">
+    <header>
+
+      <img src="./img/logo_piscine_couleur_typo_1200_264.png" alt="Logo les Piscines Grand Lyon">
+      <!-- <img src="./img/logo_piscine_couleur.png" alt="Logo"> -->
+      <h1><span class="bold">les Piscines </span><span class="black">Grand </span><span class="bb">Lyon</span></h1>
+
+
+    </header>
 
     <h2>la carte <span class="emphase">Interactive</span>
       <br><span class="smallTitle">des Piscines Municipales</span></h2>
-    
-      <div id="map"></div>
 
+    <div id="map"></div>
+
+    <footer>
+      Données : <a href="https://geo.data.gouv.fr/fr/datasets/54ed128a6931f548cdb214cba07415abb339f411" target="_blank"
+        rel="noopener noreferrer">Data.gouv.fr</a> sous <a
+        href="https://www.etalab.gouv.fr/licence-ouverte-open-licence" target="_blank" rel="noopener noreferrer">Licence
+        Ouverte 2.0</a>
+      | Réalisé par <a href="https://kromatic.fr" target="_blank" rel="noopener noreferrer">Kromatic</a>
+      | Idée et design par <a href="https://jonathan-gladine.fr/" target="_blank" rel="noopener noreferrer">Jonathan
+        Gladine Design</a>
+    </footer>
   </div>
-  <footer>
 
-    Données : <a href="https://geo.data.gouv.fr/fr/datasets/54ed128a6931f548cdb214cba07415abb339f411" target="_blank"
-      rel="noopener noreferrer">Data.gouv.fr</a> sous <a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence"
-      target="_blank" rel="noopener noreferrer">Licence
-      Ouverte 2.0</a>
-    | Réalisé par <a href="https://kromatic.fr" target="_blank" rel="noopener noreferrer">Kromatic</a>.
-    | Idée et design par <a href="https://jonathan-gladine.fr/" target="_blank" rel="noopener noreferrer">Jonathan
-      Gladine Design</a>  
-
-  </footer>
 
   <script src="./mapping.js"></script>
 </body>
