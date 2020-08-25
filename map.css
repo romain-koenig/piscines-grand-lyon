@@ -24,9 +24,10 @@ header {
 }
 
 header > img {
-  max-height: 50px;
-  margin-bottom: -1.2rem;
-  margin-right: 5rem;
+  max-height: 264px;
+  max-width: 35%;
+  /* margin-bottom: -1.2rem; */
+  /* margin-right: 5rem; */
 }
 
 h1 {
