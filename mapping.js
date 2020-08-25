@@ -20,8 +20,8 @@ map.on('load', function () {
   map.addSource('points', {
     'type': 'geojson',
     'data':
-      //'https://www.data.gouv.fr/fr/datasets/r/79abbab9-67b4-4d8e-afe7-40195f000974'
-      './adr_voie_lieu.json' // FASTER, LOCAL - for testing purpose
+      'https://www.data.gouv.fr/fr/datasets/r/79abbab9-67b4-4d8e-afe7-40195f000974'
+      //'./adr_voie_lieu.json' // FASTER, LOCAL - for testing purpose
 
   });
   map.addLayer({
