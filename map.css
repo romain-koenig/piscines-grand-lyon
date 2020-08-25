@@ -1,6 +1,8 @@
 html {
   /* Font needs to be declared in html */
   font-family: "Roboto", Arial, sans-serif;
+  font-display: swap;
+
   background-color: black;
 
   
@@ -49,8 +51,7 @@ header > img {
 h1 {
   display: none;
 }
-
-h2 {
+div#container > h2 {
   margin: 10px;
   color: white;
   font-size: x-large;
