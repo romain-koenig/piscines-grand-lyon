@@ -1,9 +1,9 @@
 console.log("Script starts here");
 
 mapboxgl.accessToken =
-"pk.eyJ1Ijoicm9tYWlua29lbmlnIiwiYSI6ImNrY2cxazR3dzBubDYycm0ybHQ4NWwwemsifQ.zv3lDYFBK4_zZmZhayc4Vg";
+  "pk.eyJ1Ijoicm9tYWlua29lbmlnIiwiYSI6ImNrY2cxazR3dzBubDYycm0ybHQ4NWwwemsifQ.zv3lDYFBK4_zZmZhayc4Vg";
 
-  var bounds = [
+var bounds = [
   [4.6, 45.2], // Southwest coordinates
   [5.1, 45.9] // Northeast coordinates
 ];
@@ -20,16 +20,26 @@ map.on('load', function () {
   map.addSource('points', {
     'type': 'geojson',
     'data':
-      'https://www.data.gouv.fr/fr/datasets/r/79abbab9-67b4-4d8e-afe7-40195f000974'
-      //'./adr_voie_lieu.json' // FASTER, LOCAL - for testing purpose
+      // 'https://www.data.gouv.fr/fr/datasets/r/79abbab9-67b4-4d8e-afe7-40195f000974'
+      './adr_voie_lieu.json' // FASTER, LOCAL - for testing purpose
 
   });
+
+  map.loadImage(
+    './img/logo_piscine_noir_map.png',
+    function (error, image) {
+      if (error) throw error;
+      map.addImage('logo', image);
+
+
+    });
   map.addLayer({
     'id': 'points',
     'type': 'symbol',
     'source': 'points',
     'layout': {
-      'icon-image': 'swimming-15',
+      // 'icon-image': 'swimming-15',
+      'icon-image': 'logo',
       // get the title name from the source's "NOM" property
       'text-field': ['get', 'nom'],
       'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
@@ -48,9 +58,9 @@ map.on('load', function () {
         "" :
         '<p>' + e.features[0].properties.commentaires + '</p>'}`
 
-        // ${e.features[0].properties.tarif === undefined ?
-        // "" :
-        // '<p>' + e.features[0].properties.tarif + '</p>'}`
+    // ${e.features[0].properties.tarif === undefined ?
+    // "" :
+    // '<p>' + e.features[0].properties.tarif + '</p>'}`
 
 
     const calendrier = JSON.parse(e.features[0].properties.openinghoursspecification);
@@ -111,7 +121,7 @@ map.on('load', function () {
       }
     });
 
-    
+
     let answerHoraires = "";
     if (horaires.length > 0) {
       answerHoraires = answerHoraires.concat("<ul>");
