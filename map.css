@@ -35,9 +35,8 @@ body {
 
 header {
   
-  padding-top: 10px;
-
-
+  border-top: #212b30 solid 12px;
+  padding-top: 12px;
 
   background-color: white;
   /* flex-grow: 1; */
@@ -60,6 +59,7 @@ div#container > h2 {
 }
 h2 > .emphase {
   color: #212b30;
+  font-weight: lighter;
 }
 h2 > .smallTitle {
   font-size: medium;
